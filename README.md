@@ -8,4 +8,4 @@ Windows : https://stackoverflow.com/questions/52393850/how-to-install-gnu-parall
 # Reference
 https://adonis.khusus.me/wordpress-plugin-ulisting-less-17-unauthenticated-account-creation
 # Donate
-BTC : 3Avek8froL5sdAmzPUTDNhhpkKe21CscKP
+BTC : 1KW2RmVwjEF99TFptRH7mABykGYgX2iuSP
