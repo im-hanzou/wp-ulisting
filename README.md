@@ -1,8 +1,11 @@
 # WordPress uListing Mass Exploiter
 Using GNU Parallel. You must have parallel for using this tool
 # Install Parallel
-Linux : <i>apt-get install parallel</i><br>
-Windows : https://stackoverflow.com/questions/52393850/how-to-install-gnu-parallel-on-windows-10-using-git-bash
+Linux : <br>
+<b>command</b> <br># <i>apt-get install parallel -y</i><br>
+Windows : <br>
+You can install WSL (windows subsystem linux) or installing <a href="https://git-scm.com/download/win">GitBash</a><br>
+<b>command</b> <br># <i>curl pi.dk/3/ > install.sh <br># sha1sum install.sh | grep 12345678 <br># md5sum install.sh <br># sha512sum install.sh <br># bash install.sh</i><br>
 # How To Use
 <i>bash exploit.sh yourlist.txt thread</i>
 # Reference
